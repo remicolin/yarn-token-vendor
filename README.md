@@ -1,3 +1,3 @@
-# yarn-token-vendor
-Try it by yourself :
+# Smart contract token Vendor 🏪👛
+You can test it at  :
 https://useless-art.surge.sh/
