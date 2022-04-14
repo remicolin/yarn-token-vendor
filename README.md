@@ -1,3 +1,3 @@
 # yarn-token-vendor
-You can test it at:
+Try it by yourself :
 https://useless-art.surge.sh/
